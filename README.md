@@ -1,20 +1,26 @@
-# Python_HW1
+# Set Up
 
 
-Use GitHub Desktop to set up a local repository (That’s a repository on your computer.).
+Be sure to have GitHub Desktop installed and have a free GitHub account installed.
 
-Move the Example files into the local repository (That’s the folder you have selected on your computer).
+Move the Example files into the local repository (That’s the folder you have selected on your computer):
+
+Hit the Green Button that says Code and then select use GitHub Desktop.
+
+Select a folder on your computer.  It will become the local repository.
 
 Commit the change.
 
-Push the local repository.
+# First Practice Steps
 
-Go to action to observe the test of the file. (It will fail at first. This is to practice)
+Move the empty practice files into your local repository.
+
+Commit and then push the local repository.
+
+Go to action to observe the test of the file. (It will fail at first. This is for practice.)
 
 On your computer Open and update the WhoAmI_File.py
 
-Commit the change.
-
-Push the local repository.
+Commit and then push the local repository.
 
 Go to action to observe the test of the file.
