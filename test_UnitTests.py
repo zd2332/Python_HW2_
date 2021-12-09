@@ -16,8 +16,7 @@ def test_GetBondPriceE():
     yc = [.010,.015,.020,.025,.030]
     face = 2000000
     couponRate = .04
-    m = 10
-    assert round(BondPrice_E_File.getBondPrice_E(face, couponRate, m, yc)) == 2098949 
+    assert round(BondPrice_E_File.getBondPrice_E(face, couponRate, yc)) == 2098949 
 
 import BondPrice_Z_File
 def test_GetBondPriceZ():
